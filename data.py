@@ -17,10 +17,15 @@
 
 
 dataset = \
-{
+{"KB-12121212":{
+                "privat24":{"changemoney","buildcarier"},
+                "silpo" : {"speakwhithagressiveperson"}
+                }
 
 
 }
+
+print(dataset)
 
 
 
